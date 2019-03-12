@@ -1,0 +1,24 @@
+body {
+    background-color: blanchedalmond
+}
+
+#Header {
+    text-align: center;
+    color: purple;
+}
+
+#Instructions {
+    text-align: center;
+}
+
+#game {
+    border: blue dotted;
+    text-align: center;
+    text: bold;
+}
+
+#gems {
+    text-align: center;
+    resize: horizontal;
+    border: blue dotted;
+}
